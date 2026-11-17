@@ -7,9 +7,9 @@
 ## 1. Tangkapan Layar Wireframe (Hasil Manual & AI)
 
 * **Halaman 1 — Katalog Utama:**
-  `![Wireframe Katalog Utama](assets/Wireframe-Katalog-Utama.png)`
+![Wireframe Katalog Utama](assets/Wireframe-Katalog-Utama.png)
 * **Halaman 2 — Detail Produk:**
-  `![Wireframe Detail Produk](./wireframe-detail.png)`
+  `![Wireframe Detail Produk](./wireframe-detail.png)'
 * **Halaman 3 — Dashboard Merchant:**
   `![Wireframe Dashboard Merchant](./wireframe-dashboard.png)`
 
