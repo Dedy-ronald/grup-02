@@ -1,4 +1,4 @@
-# Wireframe Katalog UMKM — [Nama Squad]
+# Wireframe Katalog UMKM — [PPM]
 
 **Link File Figma:** [*(https://www.figma.com/design/XkwlWOKwCpBofuqiB8YdCo/Wireframe-Katalog-UMKM----PPM-?node-id=0-1&p=f&t=xyDTewtGogrRcQo1-0)*]
 
