@@ -1,4 +1,4 @@
-### TEAM 02
+### PPM TEAM (Pemuda Pantang Mundur)
 
 # Audit UX Aplikasi Nyata & Aturan Wireframe Katalog UMKM
 
