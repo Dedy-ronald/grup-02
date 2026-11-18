@@ -12,10 +12,7 @@
   `![Wireframe Detail Produk](./wireframe-detail.png)'
 * **Halaman 3 — Dashboard Merchant:**
   `![Wireframe Dashboard Merchant](./wireframe-dashboard.png)`
-  wireframe dashboard.png
-
-
-
+  
 ---
 
 ## 2. Catatan Kritik Figma AI & Keputusan Squad
