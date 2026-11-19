@@ -1,17 +1,17 @@
 # Persona Merchant & Prioritas Fitur Platform UMKM
 ## 1. Lembar Persona Pedagang UMKM
 
-* **Profil:** Mas Dimas (29 Tahun) — Pemilik *"Kopi & Dimsum Pojok"*, Yogyakarta
-* **Perilaku Teknologi:** Menggunakan HP Android kelas menengah (RAM 4GB), aktif membalas pesan lewat WhatsApp Business, rutin mengunggah foto menu ke Instagram Story & status WA, namun belum pernah memakai aplikasi kasir (POS) karena merasa tampilannya terlalu rumit.
+* **Profil:** Mas yanto (24 Tahun) — Pemilik *"toko plastik dan bahan kue"*, bogor
+* **Perilaku Teknologi:** Menggunakan HP Android kelas menengah dengan whatsapp dan juga komputer.
 * **Masalah Terbesar (*Pains*):** 
-  * Pembeli sering menanyakan daftar menu, harga, dan ketersediaan varian rasa lewat chat satu per satu setiap malam.
-  * Pesanan sering terlewat atau salah catat saat jam ramai karena chat pembeli bertumpuk dengan chat pribadi.
-  * **Kutipan Asli:** *"Kalau lagi rame di gerobak, susah banget balesin WA satu-satu yang cuma nanya 'Bang, dimsum mentai masih ada nggak? Harganya berapa?'. Kadang pas dibales orangnya udah keburu beli di tempat lain."*
-* **Harapan Utama (*Gains*):** Punya satu tautan (link) daftar menu yang selalu update soal stok dan harga, supaya pembeli bisa langsung pilih menu dan kirim format pesanan yang rapi ke WhatsApp.
+  * repot melayani pembeli walk in (datang langsung) yang menanyakan barang dan harga sehingga harus bolak balik mengambil/mengecek barang serta menghadapi proses tawar-menawar.
+  * pencatatn stok masih manual dan sering mengandalkan ingatan (barang baru dicatat saat menipis/habis untuk restock).
+  * **Kutipan Asli:** *"kalau lewat hp atau whatsapp jarang terkendala sih bang, paling yang dateng langsung biasanya, nanya nanya barang sama harga jadi harus bolak balik ambil barang dan ada juga yang nawar menawar. kalau salah catat gak pernah cuman terkadang ada barang yang lupa naruh kalau ada pesanan, jadinya minta maaf sama pelanggannya."*
+* **Harapan Utama (*Gains*):** meningkatkan pengelolaan usaha dengan beralih/mulai menggunakan aplikasi digital sehingga pencatatan stok barang dan kebutuhan restock menjadi lebih teratur tanpa hanya mengandalkan ingatan dan juga pelayanan kepada pembeli lewat whatsapp maupun walk in berjalan lancar dengan meminimalkan barang yang lupa dimasukkan ke pesanan.
 
 ### Catatan Evaluasi Hipotesis Wawancara
-* **Hipotesis Terbukti:** Pedagang sangat membutuhkan tombol pemesanan yang langsung mengarah ke WhatsApp karena mereka sudah terbiasa bertransaksi di sana dan enggan belajar sistem pembayaran baru.
-* **Hipotesis Terbantah:** Awalnya tim mengira pedagang butuh fitur rekap laporan keuangan bulanan otomatis. Faktanya, narasumber sudah nyaman mencatat pemasukan harian di buku tulis dan justru lebih pusing mengurus stok harian yang cepat habis.
+* **Hipotesis Terbukti:** pencatatan stok masih dilakukan secara manual/mengandalkan ingatan serta rawan human error (barang pesanan lupa dimasukkan), dan narasumber memiliki keterbukaan untuk beralih ke aplikasi..
+* **Hipotesis Terbantah:** Dugaan bahwa pedagang sering kewalahan melayani pesanan lewat whatsapp dan bingung menggunakan teknologi baru di hp tidak terbukti, justru pelayanan via whatsapp jarang terkendala dan narasumber sebagai Gen Z sudah familiar dengan teknologi.
 
 ---
 
