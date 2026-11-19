@@ -1,7 +1,7 @@
 # Value Proposition & Rencana Riset — [PPM]
 
 ## 1. Rumusan Kalimat Nilai Solusi (Value Proposition Statement)
-"Platform kasir digital kami membantu pemilik warung/usaha kecil untuk mencatat transaksi penjualan dan memantau omzet dengan cara menyediakan sistem kasir praktis dengan rekap laporan otomatis harian, mingguan, dan bulanan, sehingga mereka terbebas dari kebingungan menghitung keuntungan bersih dan rekap keuangan manual di akhir bulan."
+"Platform katalog dan operasional toko kami membantu pedagang UMKM (seperti toko plastik dan bahan kue) serta pembeli lokal untuk mengelola ketersediaan barang dan menyusun pesanan secara praktis dengan cara menyediakan katalog produk yang jelas, pemesanan terformat ke WhatsApp, pencatatan stok, serta checklist penyiapan pesanan, sehingga pembeli tidak perlu bolak-balik bertanya dan penjual terhindar dari pencatatan manual serta risiko barang pesanan tertinggal."
 
 ---
 
