@@ -11,7 +11,7 @@
 * **Halaman 2 — Detail Produk:**
   `![Wireframe Detail Produk](./wireframe-detail.png)'
 * **Halaman 3 — Dashboard Merchant:**
-  `![Wireframe Dashboard Merchant](./wireframe-dashboard.png)`
+![Wireframe Dashboard Merchant](assets/Wireframe-Dashboard-Merchant.png)
   
 ---
 
