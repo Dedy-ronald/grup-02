@@ -31,7 +31,7 @@ Hasilnya, proses belanja jadi jauh lebih cepat, rapi, dan bebas drama barang ter
 
 ## Babak 3 — The Proof / Demo Artefak (~2,5 Menit)
 - **Pembicara:** [Yusuf]
-- - **Naskah Lisan:**  
+- **Naskah Lisan:**  
   "Mari kita lihat bagaimana kami menerapkan prinsip UX yang ramah pengguna pada wireframe aplikasi kami. Berdasarkan evaluasi perbandingan, kami merancang antarmuka yang sangat intuitif untuk pedagang UMKM dan pembeli lokal.
 
 Pertama, di Halaman Katalog Utama, kolom pencarian kami letakkan persis di bagian paling atas agar mudah dijangkau mata, ditemani kategori produk berbentuk ikon grid yang rapi. Kedua, tombol aksi utama seperti 'Pesan via WhatsApp' atau tombol konfirmasi belanja selalu diposisikan menempel di bagian bawah layar (sticky bottom) dengan ukuran besar dan kontras tinggi, sangat ramah untuk penggunaan satu tangan atau zone jempol. Ketiga, untuk Pencegahan Kesalahan dan Status Stok, sistem secara otomatis menonaktifkan tombol beli dan menampilkan label 'Stok Habis' apabila produk kosong, sehingga pembeli tidak bisa memesan barang yang tidak ada dan penjual terhindar dari salah catat.
