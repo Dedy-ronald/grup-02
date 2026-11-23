@@ -3,7 +3,6 @@
 **Target Durasi Total:** ~7 Menit
 
 ## Babak 1 — The Hook & The Problem (~1,5 Menit)
-## Babak 1 — The Hook & The Problem (~1,5 Menit)
 - **Pembicara:** [Dedy]
 - **Naskah Lisan:**  
   "Halo semuanya, selamat siang. Bayangkan kamu punya toko plastik dan bahan kue yang ramai, stoknya ratusan jenis, dari ukuran plastik kecil sampai loyang dan bahan taburan. Setiap hari chat masuk bertubi-tubi, tapi barang cepat habis dan pembeli sering tanya stok yang ternyata sudah kosong.
