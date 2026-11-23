@@ -21,6 +21,7 @@
 ## Babak 2 — The Solution (~1 Menit)
 - **Pembicara:** [Yusuf]
 - **Naskah Lisan:**  
+
   "Untuk menjawab masalah tersebut, kami menghadirkan solusi berupa platform katalog dan operasional toko yang praktis dan mudah digunakan, bahkan di tengah ramainya pembeli.
 
 Secara sederhana, nilai utama kami adalah: platform kami membantu pedagang UMKM dan pembeli lokal untuk mengelola ketersediaan barang serta menyusun pesanan secara praktis, dengan cara menyediakan katalog produk yang jelas, pemesanan terformat langsung ke WhatsApp, pencatatan stok otomatis, serta checklist penyiapan pesanan.
@@ -32,6 +33,7 @@ Hasilnya, proses belanja jadi jauh lebih cepat, rapi, dan bebas drama barang ter
 ## Babak 3 — The Proof / Demo Artefak (~2,5 Menit)
 - **Pembicara:** [Yusuf]
 - **Naskah Lisan:**  
+
   "Mari kita lihat bagaimana kami menerapkan prinsip UX yang ramah pengguna pada wireframe aplikasi kami. Berdasarkan evaluasi perbandingan, kami merancang antarmuka yang sangat intuitif untuk pedagang UMKM dan pembeli lokal.
 
 Pertama, di Halaman Katalog Utama, kolom pencarian kami letakkan persis di bagian paling atas agar mudah dijangkau mata, ditemani kategori produk berbentuk ikon grid yang rapi. Kedua, tombol aksi utama seperti 'Pesan via WhatsApp' atau tombol konfirmasi belanja selalu diposisikan menempel di bagian bawah layar (sticky bottom) dengan ukuran besar dan kontras tinggi, sangat ramah untuk penggunaan satu tangan atau zone jempol. Ketiga, untuk Pencegahan Kesalahan dan Status Stok, sistem secara otomatis menonaktifkan tombol beli dan menampilkan label 'Stok Habis' apabila produk kosong, sehingga pembeli tidak bisa memesan barang yang tidak ada dan penjual terhindar dari salah catat.
