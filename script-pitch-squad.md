@@ -48,15 +48,16 @@ Terakhir, dari sisi struktur data di balik layar, kami merancang tiga komponen u
 
 
 ## Babak 4 — The Impact & Value (~1 Menit)
-- **Pembicara:** [Nama Anggota 3 / 4]
+- **Pembicara:** [zaky]
 - **Naskah Lisan:**  
-  "[Gambarkan perubahan nyata sebelum vs sesudah memakai katalog bagi pedagang dan pembeli...]"
+  "["Sebelum memakai katalog, di toko perlengkapan plastik dan bahan kue ini, stok masih dicatat manual dan mengandalkan ingatan, pelayanan pembeli datang langsung sering bikin bolak-balik cek barang serta tawar-menawar, dan pernah ada barang pesanan yang lupa ditaruh sehingga harus minta maaf ke pembeli. Sesudah memakai katalog—yang sejalan dengan karakter pemiliknya sebagai Gen Z yang terbuka pada aplikasi—informasi barang, harga, dan status stok jadi lebih mudah dicek serta tertata, sehingga pedagang tidak perlu bolak-balik atau mengandalkan ingatan saja, alur penyiapan pesanan lebih terkontrol tanpa barang tertinggal, dan pembeli bisa melihat pilihan produk serta harga dengan lebih jelas dan pasti."]"
 
 ## Babak 5 — Roadmap & Call to Action (~1 Menit)
-- **Pembicara:** [Nama Anggota 4]
+- **Pembicara:** [haidar]
 - **Naskah Lisan:**  
-  "[Paparkan rencana coding Bulan 2 (Must-Have: Slice 0–4 dari `03e`), bedakan dengan visi fitur lanjutan (Could-Have), lalu tutup dengan kalimat ajakan tanya jawab...]"
+  "["Untuk rencana pengembangan di Bulan 2, tim kami akan fokus membangun fondasi dan fitur inti yang paling mendesak atau Must-Have melalui Slice 0 sampai 4—mulai dari menyiapkan kerangka aplikasi dan katalog dasar, menampilkan informasi harga serta lokasi rak agar tidak bolak-balik saat melayani pembeli walk-in, memperbarui status stok secara cepat, hingga checklist penyiapan pesanan supaya tidak ada lagi barang yang lupa dimasukkan. Sementara itu, fitur-fitur Could-Have seperti pencarian nama produk lanjutan, daftar belanja ulang otomatis ke supplier, atau katalog QR di meja kasir kami tempatkan sebagai visi pengembangan tahap berikutnya setelah alur utama benar-benar teruji di toko. Sekian pemaparan dari tim kami—apakah ada masukan atau pertanyaan terkait temuan wawancara dan rencana pengembangan katalog ini?"]"
 
 ## Catatan Uji Baca (Stopwatch)
 - Total durasi baca tim: [__ menit __ detik]
 - Kalimat yang sudah diperhalus: [...]
+
